@@ -41,3 +41,13 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+# KiCad auto-generated
+fp-info-cache
+*-backups/
+*.000
+*.bak
+*_autosave*
+_autosave*
+
+# Local settings
+*.kicad_prl
